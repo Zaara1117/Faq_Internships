@@ -9,6 +9,7 @@ An AI-powered chatbot designed to answer frequently asked questions about intern
 - Soft, aesthetic pink UI design
 - Responsive and mobile-friendly layout
 - Easy to customize and deploy
+- live chatbot https://zaara1117.github.io/Faq_Internships/
 
 ## 🚀 Technologies Used
 
